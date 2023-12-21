@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en" style="text-align: center;">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Website</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    
+    <h1>
+        Welcome to my Site!!
+    </h1>
+    <p style="color: black;">
+    <js>
+        <a href="https://www.github.com">
+            <button>
+                Github Page
+            </button>
+            </a>
+            <a href="https://www.youtube.com">
+                <br>
+                <br>
+                <button>
+                    Youtube
+                </button>
+            </a>
+    </js>
+    </p>
+    <img src="img.jpg" style="align-items: center;">
+</body>
+</html>
